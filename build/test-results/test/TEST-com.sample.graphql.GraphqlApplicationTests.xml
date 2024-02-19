@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sample.graphql.GraphqlApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-14T05:15:30" hostname="mJ7L6NR60K2" time="0.429">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.sample.graphql.GraphqlApplicationTests" time="0.429"/>
+  <system-out><![CDATA[14:15:30.629  INFO --- t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.sample.graphql.GraphqlApplicationTests]: GraphqlApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:15:30.635  INFO --- .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.sample.graphql.GraphqlApplication for test class com.sample.graphql.GraphqlApplicationTests
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

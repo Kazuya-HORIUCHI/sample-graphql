@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sample.graphql.component.fake.FakeBookDataResolverTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-14T05:15:30" hostname="mJ7L6NR60K2" time="0.132">
+  <properties/>
+  <testcase name="basic test" classname="com.sample.graphql.component.fake.FakeBookDataResolverTest" time="0.1"/>
+  <testcase name="with input" classname="com.sample.graphql.component.fake.FakeBookDataResolverTest" time="0.029"/>
+  <system-out><![CDATA[14:15:28.934 [Test worker @coroutine#2] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.sample.graphql.component.fake.FakeBookDataResolverTest]: FakeBookDataResolverTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+14:15:29.024 [Test worker @coroutine#2] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.sample.graphql.GraphqlApplication for test class com.sample.graphql.component.fake.FakeBookDataResolverTest
+14:15:29.228  INFO --- c.s.g.c.fake.FakeBookDataResolverTest    : Starting FakeBookDataResolverTest using Java 17.0.4.1 with PID 79523 (started by jp20736 in /Users/jp20736/git_myown/sample-graphql)
+14:15:29.229  INFO --- c.s.g.c.fake.FakeBookDataResolverTest    : No active profile set, falling back to 1 default profile: "default"
+14:15:29.999  INFO --- c.n.g.d.w.a.GraphiQLConfigurer           : Configuring GraphiQL to use GraphQL endpoint at '/graphql'
+14:15:30.407  INFO --- c.s.g.c.fake.FakeBookDataResolverTest    : Started FakeBookDataResolverTest in 1.316 seconds (process running for 4.497)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
